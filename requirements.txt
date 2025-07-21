@@ -1,0 +1,10 @@
+scikit-learn
+pandas
+setuptools
+dill
+imblearn
+xgboost
+catboost
+lightgbm
+streamlit
+-e .
